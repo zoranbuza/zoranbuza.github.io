@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,a as n,t as c}from"./entry.200a8d40.js";const o={},r={class:"uk-heading-medium"};function i(e,_){return s(),a("div",null,[n("h1",r,c(e.$t("news_title")),1)])}const l=t(o,[["render",i]]);export{l as default};
