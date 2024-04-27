@@ -1,0 +1,1 @@
+import{_ as t,c as s,a,t as n,o as c}from"./Bin6LQrq.js";const o={},r={class:"uk-heading-medium"};function i(e,_){return c(),s("div",null,[a("h1",r,n(e.$t("news_title")),1)])}const l=t(o,[["render",i]]);export{l as default};

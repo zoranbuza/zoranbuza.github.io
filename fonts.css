@@ -1,0 +1,14 @@
+#hero {
+    padding: 150px 0;
+    /* background-color: #f7f5f2; */
+    background-color: #fafaf9;
+  }
+  
+  .uk-text-default {
+    font-size: 20px;
+    color: #444;
+  }
+
+  h6, .services {
+    text-transform: uppercase;
+  }
